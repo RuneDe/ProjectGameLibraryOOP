@@ -1,5 +1,0 @@
-C:\Users\Rune De Corte\source\repos\Rune De Corte-TheorieOpdrachtOOP4\ProjectGameLibraryOOP\ProjectGameLibraryOOP\obj\Debug\net6.0-windows\ProjectGameLibraryOOP.csproj.AssemblyReference.cache
-C:\Users\Rune De Corte\source\repos\Rune De Corte-TheorieOpdrachtOOP4\ProjectGameLibraryOOP\ProjectGameLibraryOOP\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Users\Rune De Corte\source\repos\Rune De Corte-TheorieOpdrachtOOP4\ProjectGameLibraryOOP\ProjectGameLibraryOOP\obj\Debug\net6.0-windows\App.g.cs
-C:\Users\Rune De Corte\source\repos\Rune De Corte-TheorieOpdrachtOOP4\ProjectGameLibraryOOP\ProjectGameLibraryOOP\obj\Debug\net6.0-windows\ProjectGameLibraryOOP_MarkupCompile.cache
-C:\Users\Rune De Corte\source\repos\Rune De Corte-TheorieOpdrachtOOP4\ProjectGameLibraryOOP\ProjectGameLibraryOOP\obj\Debug\net6.0-windows\ProjectGameLibraryOOP_MarkupCompile.lref
